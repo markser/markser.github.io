@@ -1,0 +1,18 @@
+body{
+  color: orange;
+  font-family: monospace;
+  text-align: center;
+  background-image: url(mountains.png);
+  background-size:100%;
+}
+h1 {
+  color: blue;
+  font-weight: bold;
+  font-size: 1000px;
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
