@@ -1,2 +1,4 @@
-console.log("Hello, World!");
-alert("Hello, World");
+
+window.onload=function(){
+  alert("Hello, World");
+}
